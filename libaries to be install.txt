@@ -1,0 +1,5 @@
+pip install Dlib
+pip install Openv
+pip install Pygame 
+pip install Scipy
+pip install imutils
